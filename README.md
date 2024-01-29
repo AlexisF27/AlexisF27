@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexis Fernando Rodriguez Quezada</h1>
 <h3 align="center">I am a very driven, ambitious person, hungry for learning about coding</h3>
 
-<p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=alexisf27&label=Profile%20views&color=0e75b6&style=flat"
-    alt="alexisf27"
-  /> </p>
-
 
 - 🌱 I’m currently learning **React Native, MERN**
 
@@ -280,6 +275,13 @@
       width="40"
       height="40"
     /> </a>
+    <a href="https://katalon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://blogs.perficient.com/files/Katalon-logo-vector.svg-1-600x400.png" alt="katalon" width="50" height="40"/>
+</a>
+ <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="cucumber" width="40" height="40"/>
+</a>
+
 <hr>
 
 <h3 align="left">Software:</h3>
@@ -293,7 +295,14 @@
       width="40"
       height="40"
     /> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+</a>
+<a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> 
+    <img src="https://velog.velcdn.com/images/chickenrun/post/01adfc12-38df-43d3-af17-5481f9cece33/image.png" alt="JIRA" width="90" height="40"/>
+</a>
+
+
 
 <hr>
 <h3 align="left">Game Engines:</h3>
@@ -329,6 +338,9 @@
       width="40"
       height="40"
     /> </a> 
+<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/product/product_image/4169/thumb_Bitbucket.jpg" alt="BitBucket" width="70" height="60"/>
+</a>
 
 
 

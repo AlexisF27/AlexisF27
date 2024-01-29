@@ -238,20 +238,14 @@
     href="https://laravel.com/"
     target="_blank"
     rel="noreferrer"
-  > <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+  > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
       alt="laravel"
       width="40"
       height="40"/></a>
     <a href="https://katalon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://blogs.perficient.com/files/Katalon-logo-vector.svg-1-600x400.png" alt="katalon" width="50" height="40"/>
-</a>
- <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="cucumber" width="40" height="40"/>
-</a>
-
+    <img src="https://blogs.perficient.com/files/Katalon-logo-vector.svg-1-600x400.png" alt="katalon" width="50" height="40"/></a>
+ <a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="cucumber" width="40" height="40"/></a>
 <hr>
-
 <h3 align="left">Software:</h3>
  <a
     href="https://postman.com"
@@ -292,23 +286,18 @@
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
       width="40"
-      height="40"
-    /> </a> 
-<a
-    href="https://www.linux.org/"
+      height="40"/></a> 
+<a href="https://www.linux.org/"
     target="_blank"
     rel="noreferrer"> 
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       alt="linux"
       width="40"
-      height="40"
-    /> </a> 
+      height="40"/></a> 
 <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> 
     <img src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/product/product_image/4169/thumb_Bitbucket.jpg" alt="BitBucket" width="70" height="60"/>
 </a>
-
-
 
 </p>
 

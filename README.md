@@ -349,12 +349,12 @@
 
 <p><img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=alexisf27&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=alexisf27&theme=dracula&exclude_days=Sat,Sun&show_icons=true&locale=en&layout=compact"
     alt="alexisf27"
   /></p>
 <p>
     <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=alexisf27&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=alexisf27&theme=dracula"
     alt="alexisf27"
   /></p>

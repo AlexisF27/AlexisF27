@@ -238,7 +238,7 @@
     href="https://laravel.com/"
     target="_blank"
     rel="noreferrer"
-  > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+  > <img src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png"
       alt="laravel"
       width="40"
       height="40"/></a>

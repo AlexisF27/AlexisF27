@@ -240,8 +240,7 @@
     rel="noreferrer"
   > <img src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png"
       alt="laravel"
-      width="40"
-      height="40"/></a>
+       width="90" height="40"/></a>
     <a href="https://katalon.com/" target="_blank" rel="noreferrer"> 
     <img src="https://blogs.perficient.com/files/Katalon-logo-vector.svg-1-600x400.png" alt="katalon" width="50" height="40"/></a>
  <a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="cucumber" width="40" height="40"/></a>

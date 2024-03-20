@@ -102,14 +102,7 @@
     alt="vuejs"
     width="40"
     height="40"/></a>
-<a
-  href="https://vuetifyjs.com/en/"
-  target="_blank"
-  rel="noreferrer"> <img
-    src="https://bestofjs.org/logos/vuetify.svg"
-    alt="vuetify"
-    width="40"
-    height="40"/></a>
+
 <a
   href="https://reactjs.org/"
   target="_blank"
